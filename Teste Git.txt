@@ -1,3 +1,6 @@
 testando o Git
 
 CPF: 000.000.000-00
+
+idade: 19
+Altura: 1.78
